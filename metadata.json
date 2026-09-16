@@ -1,0 +1,7 @@
+{
+  "name": "SKILLORA",
+  "description": "Smart internship discovery and guidance platform for students with personalized skill matching, verified official sources, application tracking, and deadline reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
